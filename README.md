@@ -1,4 +1,5 @@
 # csgo_cfg
+Counter Strike: Global Offensive personal configuration
 
 ## Download
 
