@@ -27,5 +27,9 @@ Installing these simply means placing following files on the Counter Strike: Glo
         |-- autoexec.cfg
         |-- crosshair_default.cfg
         |-- crosshair_line_up.cfg
+        |-- crosshair_primary.cfg
+        |-- crosshair_secondary.cfg
         |-- userconfig.cfg
+        |-- viewmodel_default.cfg
+        |-- viewmodel_primary.cfg
 ```
