@@ -3,7 +3,7 @@ Counter Strike: Global Offensive personal configuration
 
 ## Download
 
-Clone: `https://github.com/MagicJoseph/csgo_cfg.git`
+Clone: `git clone https://github.com/MagicJoseph/csgo_cfg.git`
 
 Download ZIP: [https://github.com/MagicJoseph/csgo_cfg/archive/master.zip](https://github.com/MagicJoseph/csgo_cfg/archive/master.zip)
 
