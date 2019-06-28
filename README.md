@@ -15,7 +15,7 @@ Installing these simply means placing following files on the Counter Strike: Glo
 
 ## Launch Options
 
-`-novid -tickrate 128 -language english -d3d9ex +cl_forcepreload 1 +mat_queue_mode 2 +exec autoexec.cfg`
+`-novid -tickrate 128 -language english -d3d9ex +cl_forcepreload 1 +mat_queue_mode 2 -nojoy +exec autoexec.cfg`
 
 ## Files
 
