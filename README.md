@@ -32,7 +32,7 @@ Installing these simply means placing following files on the Counter Strike: Glo
         |-- crosshair_line_up.cfg
         |-- crosshair_primary.cfg
         |-- crosshair_secondary.cfg
-        |-- audio_resolution.cfg
+        |-- resolution_settings.cfg
         |-- userconfig.cfg
         |-- viewmodel_default.cfg
         |-- viewmodel_primary.cfg
