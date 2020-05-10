@@ -24,11 +24,15 @@ Installing these simply means placing following files on the Counter Strike: Glo
     |-- radial_quickinventory.txt
     |-- README.md
     |-- cfg
+        |-- 1on1.cfg
+        |-- audio_settings.cfg
         |-- autoexec.cfg
         |-- crosshair_default.cfg
+        |-- crosshair_green.cfg
         |-- crosshair_line_up.cfg
         |-- crosshair_primary.cfg
         |-- crosshair_secondary.cfg
+        |-- audio_resolution.cfg
         |-- userconfig.cfg
         |-- viewmodel_default.cfg
         |-- viewmodel_primary.cfg
